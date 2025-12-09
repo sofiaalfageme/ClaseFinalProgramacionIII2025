@@ -1,0 +1,51 @@
+@options
+@packages
+-classpath
+'C:/Users/sofia/.m2/repository/com/google/code/gson/gson/2.13.2/gson-2.13.2.jar;C:/Users/sofia/.m2/repository/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'c:/Users/sofia/ClaseFinalProgra/ClaseFinalProgramacionIII2025/miprimerproyectomaven/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'c:/Users/sofia/ClaseFinalProgra/ClaseFinalProgramacionIII2025/miprimerproyectomaven/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'miprimerproyectomaven 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'c:/Users/sofia/ClaseFinalProgra/ClaseFinalProgramacionIII2025/miprimerproyectomaven/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'miprimerproyectomaven 1.0-SNAPSHOT API'
+com.usal
+C:\Users\sofia\.m2\repository\com\google\code\gson\gson\2.13.2\gson-2.13.2.jar = 1765301750925
+C:\Users\sofia\.m2\repository\com\google\errorprone\error_prone_annotations\2.41.0\error_prone_annotations-2.41.0.jar = 1765301751716
+c:\Users\sofia\ClaseFinalProgra\ClaseFinalProgramacionIII2025\miprimerproyectomaven\src\main\java = 1765300885858
+c:\Users\sofia\ClaseFinalProgra\ClaseFinalProgramacionIII2025\miprimerproyectomaven\target\site\apidocs\allclasses-index.html = 1765302836942
+c:\Users\sofia\ClaseFinalProgra\ClaseFinalProgramacionIII2025\miprimerproyectomaven\target\site\apidocs\allpackages-index.html = 1765302836948
+c:\Users\sofia\ClaseFinalProgra\ClaseFinalProgramacionIII2025\miprimerproyectomaven\target\site\apidocs\copy.svg = 1765302837120
+c:\Users\sofia\ClaseFinalProgra\ClaseFinalProgramacionIII2025\miprimerproyectomaven\target\site\apidocs\element-list = 1765302836837
+c:\Users\sofia\ClaseFinalProgra\ClaseFinalProgramacionIII2025\miprimerproyectomaven\target\site\apidocs\help-doc.html = 1765302837086
+c:\Users\sofia\ClaseFinalProgra\ClaseFinalProgramacionIII2025\miprimerproyectomaven\target\site\apidocs\index-all.html = 1765302837021
+c:\Users\sofia\ClaseFinalProgra\ClaseFinalProgramacionIII2025\miprimerproyectomaven\target\site\apidocs\index.html = 1765302837044
+c:\Users\sofia\ClaseFinalProgra\ClaseFinalProgramacionIII2025\miprimerproyectomaven\target\site\apidocs\link.svg = 1765302837130
+c:\Users\sofia\ClaseFinalProgra\ClaseFinalProgramacionIII2025\miprimerproyectomaven\target\site\apidocs\member-search-index.js = 1765302836966
+c:\Users\sofia\ClaseFinalProgra\ClaseFinalProgramacionIII2025\miprimerproyectomaven\target\site\apidocs\module-search-index.js = 1765302836953
+c:\Users\sofia\ClaseFinalProgra\ClaseFinalProgramacionIII2025\miprimerproyectomaven\target\site\apidocs\overview-tree.html = 1765302836915
+c:\Users\sofia\ClaseFinalProgra\ClaseFinalProgramacionIII2025\miprimerproyectomaven\target\site\apidocs\package-search-index.js = 1765302836958
+c:\Users\sofia\ClaseFinalProgra\ClaseFinalProgramacionIII2025\miprimerproyectomaven\target\site\apidocs\script.js = 1765302837109
+c:\Users\sofia\ClaseFinalProgra\ClaseFinalProgramacionIII2025\miprimerproyectomaven\target\site\apidocs\search-page.js = 1765302837157
+c:\Users\sofia\ClaseFinalProgra\ClaseFinalProgramacionIII2025\miprimerproyectomaven\target\site\apidocs\search.html = 1765302837034
+c:\Users\sofia\ClaseFinalProgra\ClaseFinalProgramacionIII2025\miprimerproyectomaven\target\site\apidocs\search.js = 1765302837144
+c:\Users\sofia\ClaseFinalProgra\ClaseFinalProgramacionIII2025\miprimerproyectomaven\target\site\apidocs\stylesheet.css = 1765302837100
+c:\Users\sofia\ClaseFinalProgra\ClaseFinalProgramacionIII2025\miprimerproyectomaven\target\site\apidocs\tag-search-index.js = 1765302836972
+c:\Users\sofia\ClaseFinalProgra\ClaseFinalProgramacionIII2025\miprimerproyectomaven\target\site\apidocs\type-search-index.js = 1765302836961
